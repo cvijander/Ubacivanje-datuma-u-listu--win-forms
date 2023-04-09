@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ubacivanje datuma u listu/1.0.0": {
+        "runtime": {
+          "Ubacivanje datuma u listu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ubacivanje datuma u listu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

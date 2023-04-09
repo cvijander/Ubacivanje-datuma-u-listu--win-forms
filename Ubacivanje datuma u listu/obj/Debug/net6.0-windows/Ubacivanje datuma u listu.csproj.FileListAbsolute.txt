@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\bin\Debug\net6.0-windows\Ubacivanje datuma u listu.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\bin\Debug\net6.0-windows\Ubacivanje datuma u listu.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\bin\Debug\net6.0-windows\Ubacivanje datuma u listu.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\bin\Debug\net6.0-windows\Ubacivanje datuma u listu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\bin\Debug\net6.0-windows\Ubacivanje datuma u listu.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\Ubacivanje datuma u listu.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\Ubacivanje_datuma_u_listu.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\Ubacivanje datuma u listu.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\Ubacivanje datuma u listu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\Ubacivanje datuma u listu.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\Ubacivanje datuma u listu.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\Ubacivanje datuma u listu.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\Ubacivanje datuma u listu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\refint\Ubacivanje datuma u listu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\Ubacivanje datuma u listu.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\Ubacivanje datuma u listu.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Ubacivanje datuma u listu\Ubacivanje datuma u listu\obj\Debug\net6.0-windows\ref\Ubacivanje datuma u listu.dll
